@@ -1,0 +1,9 @@
+public class Myint implements printable,showablee{
+    public void print(){
+        System.out.println("I am im print");
+    }
+    public void show(){
+        System.out.println("I am in show");
+    }
+
+}
