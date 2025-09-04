@@ -3,7 +3,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.Scanner;
-
 import static javax.swing.UIManager.get;
 
 public class ArrayList3 {
